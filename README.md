@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JohnX4321
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @JohnX4321 and an Android Developer
+- 👀 I’m interested in Coding, Drawing, Quiz
+- 🌱 I’m currently upgrading my skills in Androi and iOS.
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me johnx4321gaming@gmail.com
 
 <!---
 JohnX4321/JohnX4321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
